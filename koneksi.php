@@ -1,7 +1,7 @@
 <?php 
 
-$koneksi = mysqli_connect('localhost' , 'root' , '' , 'database_name');
-if (!koneksi) {
+$koneksi = mysqli_connect('localhost' , 'root' , '' , 'xiirplb_egi_w');
+if (!$koneksi) {
     echo "Koneksi Gagal...";
 }
 

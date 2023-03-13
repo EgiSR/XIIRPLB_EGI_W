@@ -67,7 +67,7 @@
           </div>
           <!-- /.col -->
         </div>
-        <div><a href="login.php">login Admin/Kasir</a></div>
+        <div><a href="registrasi.php">Belum punya akun?register dulu</a></div>
       </form>
 
     </div>
